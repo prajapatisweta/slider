@@ -67,4 +67,5 @@ body{
     top: 19%;
     left: 50%;
     transform: translateX(-50%);
+    opacity: 55%;
 }
